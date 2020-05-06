@@ -5,4 +5,9 @@ if hungry=='yes':
     print('Eat samosa')
     print('Eat Fries')
 else:
-    print('Do not Eat')
+    thirsty = input("Are you Thirtsy")
+    if thirsty == 'yes':
+        print('Drink ater')
+        print('Drink Soda')
+
+
